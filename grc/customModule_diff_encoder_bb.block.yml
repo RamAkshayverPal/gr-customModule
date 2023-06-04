@@ -1,0 +1,41 @@
+id: customModule_diff_encoder_bb
+label: Differential Encoder
+flags: [ python, cpp ]
+
+parameters:
+-   id: coding
+    label: Coding
+    dtype: enum
+    default: customModule.DIFF_DIFFERENTIAL
+    options: [customModule.DIFF_DIFFERENTIAL, customModule.DIFF_NRZI]
+    option_labels: [Differential, NRZI]
+    option_attributes:
+        hide_modulus: [none, all]
+        force_modulus: [-1, 2]
+-   id: modulus
+    label: Modulus
+    dtype: int
+    hide: ${ coding.hide_modulus }
+
+inputs:
+-   domain: stream
+    dtype: byte
+
+outputs:
+-   domain: stream
+    dtype: byte
+
+templates:
+    imports: from gnuradio import customModule
+    make: customModule.diff_encoder_bb(${modulus if coding.force_modulus == '-1' else coding.force_modulus}, ${coding})
+
+cpp_templates:
+    includes: ['#include <gnuradio/customModule/diff_encoder_bb.h>']
+    declarations: 'customModule::diff_encoder_bb::sptr ${id};'
+    make: |-
+        this->${id} = customModule::diff_encoder_bb::make(${modulus if coding.force_modulus == '-1' else coding.force_modulus}, ${coding});
+    link: ['gnuradio::gnuradio-customModule']
+    translations:
+        customModule\.DIFF: 'customModule::DIFF'
+
+file_format: 1
