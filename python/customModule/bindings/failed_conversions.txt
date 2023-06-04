@@ -1,0 +1,41 @@
+./include/gnuradio/customModule/ofdm_equalizer_base.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_equalizer_ba.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_equalizer_ba.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_equalizer_base.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/ofdm_frame_equalizer_vcvc.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/chunks_to_symbols.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/control_loop.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/control_loop.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/fft.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/fft.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/fft.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/fft.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/logger.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/logger.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/logger.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/logger.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/fft.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/fft.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/fft.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/fft.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/fft.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/fft.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/fft.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/fft.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
+./include/gnuradio/customModule/permutation.hError occurred while running CASTXML xml file does not exist
+./include/gnuradio/customModule/permutation.hUnable to find declaration. Matcher: [(decl type==namespace_t) and (name==customModule)]
